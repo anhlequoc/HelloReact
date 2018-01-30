@@ -7,7 +7,7 @@ var GreeterMessage = React.createClass({
         <h1>Hello {name}</h1>
         <p>Welcome Message: {message}</p>
       </div>
-    )
+    );
   }
 });
 
